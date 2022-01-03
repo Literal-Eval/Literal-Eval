@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Literal-Eval
+- 👋 Hi, I’m Ravi Dev Pandey
 - 👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter.
 - 🌱 I’m currently learning Flutter along with React.
 - 💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React.
