@@ -5,13 +5,13 @@
 - 📫 How to reach me:
 -- pandeyravidev@gmail.com
 
-<div style="display: block;"><img style="margin: 0px auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=black-ice"></div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=github-dark"></p>
 
 ## My GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark)
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark&hide_border=true)
 
-## Languages I Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Literal-Eval&theme=dark&layout=compact)](https://github.com/Literal-Eval)
+## Languages I Use Often (in my repos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Literal-Eval&theme=github_dark&layout=compact&show_icons=true&hide_border=true)](https://github.com/Literal-Eval)
 
 <!---
 Literal-Eval/Literal-Eval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
