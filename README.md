@@ -11,7 +11,7 @@
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark&hide_border=true)
 
 ## Languages I Use Often (in my repos)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Literal-Eval&theme=github_dark&layout=compact&show_icons=true&hide_border=true)](https://github.com/Literal-Eval)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Literal-Eval&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/Literal-Eval)
 
 <!---
 Literal-Eval/Literal-Eval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
