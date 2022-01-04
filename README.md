@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 -- pandeyravidev@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=nightowl)](https://github.com/Literal-Eval)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=black-ice)](https://github.com/Literal-Eval)
 
 <!---
 Literal-Eval/Literal-Eval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
