@@ -3,7 +3,7 @@
 <p align="center"> 👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter </p>
 <p align="center"> 🌱 I’m currently learning Flutter along with React </p>
 <p align="center"> 💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React </p>
-<p align="center"> 📫 How to reach me: -- pandeyravidev@gmail.com </p>
+<p align="center"> 📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=github-dark"></p>
 
