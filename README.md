@@ -7,10 +7,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=github-dark"></p>
 
+## <p align="center">My OpenSource Contribution Graph</p>
+[![Ravi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Literal-Eval&hide_border=true&theme=react-dark)](https://github.com/Literal-Eval)
+
 ## My GitHub Stats
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark&hide_border=true)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Literal-Eval&hide_border=true&theme=react-dark)](https://github.com/Literal-Eval)
 
 ## Languages I Use Often (in my repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Literal-Eval&theme=github_dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/Literal-Eval)
