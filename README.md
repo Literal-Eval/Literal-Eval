@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 -- pandeyravidev@gmail.com
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=black-ice">
+<div style="display: block;"><img style="margin: 0px auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=black-ice"></div>
 
 ## My GitHub Stats
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark)
