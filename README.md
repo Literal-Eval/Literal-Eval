@@ -8,7 +8,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Literal-Eval&theme=github-dark"></p>
 
 ## <p align="center">My OpenSource Contribution Graph</p>
-[![Ravi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Literal-Eval&hide_border=true&theme=react-dark)](https://github.com/Literal-Eval)
+[![Ravi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Literal-Eval&custom_title=Ravi's%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Literal-Eval)
 
 ## My GitHub Stats
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Literal-Eval&show_icons=true&theme=github_dark&hide_border=true)
